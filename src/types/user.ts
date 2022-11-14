@@ -1,11 +1,11 @@
 interface User {
-  id: Number,
-  name: String,
-  username: String,
-  email: String,
+  id: number,
+  name: string,
+  username: string,
+  email: string,
   address: Object,
-  phone: String,
-  website: String,
+  phone: string,
+  website: string,
   company: Object
 }
 
